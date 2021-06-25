@@ -26,9 +26,9 @@ I would say that the only difficulty I encountered was getting the correct formu
 - What can you conclude about the Outcomes based on Goals?
 I feel the information provided on the Outcomes Based on Goals sheet is noticeably clear, and it will provide Louise in-depth data to compare her play to all the other plays. 
 
--I believe that a limitation of this dataset would be that is incredible big, and if you are not familiar with the formulas and how to filter the desired data, would make it very hard for whoever it trying to analyze this dataset.
+- I believe that a limitation of this dataset would be that is incredible big, and if you are not familiar with the formulas and how to filter the desired data, would make it very hard for whoever it trying to analyze this dataset.
 
-I think we would need to add more information to the Theater Outcomes by Launch Date. I think we would need to add also columns for percentage Successful, Failed and Canceled.
+- I think we would need to add more information to the Theater Outcomes by Launch Date. I think we would need to add also columns for percentage Successful, Failed and Canceled.
 Please see below table for my recommendations.
 
 ![image](https://user-images.githubusercontent.com/86321353/123350131-34ae5c80-d50f-11eb-90d7-59449a6949a3.png)
