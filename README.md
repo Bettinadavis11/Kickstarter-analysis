@@ -21,12 +21,12 @@ I would say that the only difficulty I encountered was getting the correct formu
 
 ## Results
 
-- I think the information on the Outcomes Based on Launch Date is clear, however, I think I would have benefitted from adding an additional row showing percentages as it would make our data clearer to Louise.
+- I think the information on the Outcomes Based on Launch Date is clear, however, I think it would have benefitted from adding an additional row showing percentages as it would make our data clearer to Louise.
 
 - What can you conclude about the Outcomes based on Goals?
 I feel the information provided on the Outcomes Based on Goals sheet is noticeably clear, and it will provide Louise in-depth data to compare her play to all the other plays. 
 
-- I believe that a limitation of this dataset would be that is incredible big, and if you are not familiar with the formulas and how to filter the desired data, would make it very hard for whoever it trying to analyze this dataset.
+- I believe that a limitation of this dataset would be that is incredible big, and if you are not familiar with the formulas and how to filter the desired data, it would make it very hard for whoever it trying to analyze this dataset.
 
 - I think we would need to add more information to the Theater Outcomes by Launch Date. I think we would need to add also columns for percentage Successful, Failed and Canceled.
 Please see below table for my recommendations.
